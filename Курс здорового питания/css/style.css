@@ -1,18 +1,18 @@
 @font-face {
   font-family: "Celestina";
-  src: url(/assets/font/Celestina.ttf);
+  src: url(../assets/font/Celestina.ttf);
 }
 @font-face {
   font-family: "HelvetRm";
-  src: url(/assets/font/helveticaneuecyr_roman.otf);
+  src: url(../assets/font/helveticaneuecyr_roman.otf);
 }
 @font-face {
   font-family: "HelvetUl";
-  src: url(/assets/font/helveticaneuecyr_ultralight.otf);
+  src: url(../assets/font/helveticaneuecyr_ultralight.otf);
 }
 @font-face {
   font-family: "Fedra";
-  src: url(/assets/font/FedraSansPro.ttf);
+  src: url(../assets/font/FedraSansPro.ttf);
 }
 body {
   margin: 0;
@@ -64,7 +64,7 @@ header .header_contacts-wrapper .header_contacts:active {
 .main-preview_block {
   width: 100%;
   height: 650px;
-  background-image: url("/img/header.jpg");
+  background-image: url("../img/header.jpg");
   background-size: cover;
   background-attachment: fixed;
   display: flex;
@@ -116,7 +116,7 @@ header .header_contacts-wrapper .header_contacts:active {
 .main-about_block .about_block-left {
   width: 500px !important;
   height: 100% !important;
-  background-image: url(/img/main.jpg);
+  background-image: url(../img/main.jpg);
   background-size: cover;
 }
 .main-about_block .about_block-right {
@@ -394,7 +394,7 @@ header .header_contacts-wrapper .header_contacts:active {
 .main-promo_block .promo-block_right {
   width: 45%;
   height: 100%;
-  background-image: url(/img/bottom.jpg);
+  background-image: url(../img/bottom.jpg);
   background-size: cover;
 }
 .main-promo_block .promo-block_left {
