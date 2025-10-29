@@ -127,7 +127,7 @@ header .header_contacts-wrapper .header_contacts:active {
   width: 70%;
   background-color: rgba(0, 0, 0, 0.05);
 }
-.main-about_block .about_block-right .block-right_h1 {
+.main-about_block .about_block-right .block-right_h2 {
   font-family: "Fedra";
   font-size: 36px;
   font-weight: 500;
@@ -152,7 +152,7 @@ header .header_contacts-wrapper .header_contacts:active {
   flex-direction: column;
   margin-bottom: 80px;
 }
-.main-advantage_block .advantage_block-h1 {
+.main-advantage_block .advantage_block-h2 {
   font-family: "Fedra";
   font-size: 36px;
   font-weight: 500;
@@ -205,7 +205,7 @@ header .header_contacts-wrapper .header_contacts:active {
   align-items: center;
   flex-direction: row;
 }
-.main-colored_block .colored-block_h1 {
+.main-colored_block .colored-block_h2 {
   width: 550px;
   margin-right: 50px;
   font-family: "Fedra";
@@ -214,7 +214,7 @@ header .header_contacts-wrapper .header_contacts:active {
   color: #fdfbf6;
   text-align: center;
 }
-.main-colored_block .colored-block_h1 span {
+.main-colored_block .colored-block_h2 span {
   font-family: "Celestina";
   font-size: 48px;
   font-weight: 550;
@@ -234,7 +234,7 @@ header .header_contacts-wrapper .header_contacts:active {
   height: auto;
   margin-bottom: 80px;
 }
-.main-program_block .program-block_h1 {
+.main-program_block .program-block_h2 {
   font-family: "Fedra";
   font-size: 28px;
   font-weight: 600;
@@ -287,7 +287,7 @@ header .header_contacts-wrapper .header_contacts:active {
   flex-direction: column;
   background-color: #2b3b2a;
 }
-.main-buy_block .buy-block_h1 .gradient {
+.main-buy_block .buy-block_h2 .gradient {
   font-family: "Celestina";
   font-size: 48px;
   font-weight: 550;
@@ -406,7 +406,7 @@ header .header_contacts-wrapper .header_contacts:active {
   align-items: center;
   flex-direction: column;
 }
-.main-promo_block .promo-block_left .promo-block_h1 {
+.main-promo_block .promo-block_left .promo-block_h2 {
   font-family: "Fedra";
   font-size: 28px;
   font-weight: 650;
@@ -489,7 +489,7 @@ header .header_contacts-wrapper .header_contacts:active {
   flex-direction: column;
   margin-bottom: 50px;
 }
-.main-faq_block .main-faq_h1 {
+.main-faq_block .main-faq_h2 {
   font-family: "Fedra";
   font-size: 28px;
   font-weight: 650;
@@ -604,7 +604,7 @@ footer .footer_phone {
     background-size: cover;
     background-attachment: unset;
   }
-  .main-preview_block .preview_block-h1 {
+  .main-preview_block .preview_block-h2 {
     margin: 0;
     color: #fff;
     text-shadow: 5px 5px #000;
@@ -631,7 +631,7 @@ footer .footer_phone {
   .main-about_block .about_block-right {
     width: 90%;
   }
-  .main-about_block .block-right_h1 {
+  .main-about_block .block-right_h2 {
     width: 280px;
     margin: 20px 0 !important;
   }
@@ -643,7 +643,7 @@ footer .footer_phone {
     height: auto;
     flex-direction: column;
   }
-  .main-advantage_block .advantage_block-h1 {
+  .main-advantage_block .advantage_block-h2 {
     margin: 30px 0 20px 0;
     width: 280px;
   }
@@ -658,7 +658,7 @@ footer .footer_phone {
   .main-colored_block .colored-block_content {
     flex-direction: column;
   }
-  .main-colored_block .colored-block_content .colored-block_h1 {
+  .main-colored_block .colored-block_content .colored-block_h2 {
     width: 280px;
     margin: 20px 0 35px 0;
   }
@@ -666,7 +666,7 @@ footer .footer_phone {
     width: 100%;
     height: auto;
   }
-  .main-program_block .program-block_h1 {
+  .main-program_block .program-block_h2 {
     font-size: 36px;
   }
   .main-program_block .program_container {
@@ -676,7 +676,7 @@ footer .footer_phone {
     width: 100%;
     height: 680px;
   }
-  .main-buy_block .buy-block_h1 {
+  .main-buy_block .buy-block_h2 {
     width: 280px;
     text-align: center;
   }
